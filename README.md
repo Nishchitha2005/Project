@@ -1,4 +1,4 @@
 # Project
 Project repository
 </br>
-Author- Nishchitha R
+Author- Nishchitha R (Apna college)
